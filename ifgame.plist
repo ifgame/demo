@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.1.205/res/Ios/pkg/ifgame.ipa</string>
+                    <string>http://192.168.1.205/res/Ios/pkg/ifgame_dhw.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    						<string>com.ifgame.demo</string>
+				<string>com.ifgame.demo</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
